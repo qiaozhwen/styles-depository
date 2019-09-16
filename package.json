@@ -1,0 +1,19 @@
+{
+  "name": "qiaozhen",
+  "version": "1.0.0",
+  "description": "测试样式库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiaozhwen/styles-depository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiaozhwen/styles-depository/issues"
+  },
+  "homepage": "https://github.com/qiaozhwen/styles-depository#readme"
+}
